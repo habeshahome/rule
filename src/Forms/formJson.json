@@ -1,0 +1,43 @@
+[
+  {
+    "form_title": "rule-set",
+    "fields": [
+      {
+        "name": "name ",
+        "type": "text",
+        "label": "Name",
+        "placeholder": "Input your name",
+        "value": "Bamlak",
+        "required": "true",
+        "readonly": "false"
+      },
+      {
+        "name": "email",
+        "type": "email",
+        "label": "Email",
+        "placeholder": "Enter your email",
+        "value": "bamlak@gmail.com",
+        "required": "true",
+        "readonly": "false"
+      },
+      {
+        "name": "role",
+        "type": "text",
+        "label": "add your role",
+        "placeholder": "add your role",
+        "value": "ADMIN",
+        "required": "true",
+        "readonly": "false"
+      },
+      {
+        "name": "phone",
+        "type": "tel",
+        "label": "enter your phone",
+        "placeholder": "add your phone",
+        "value": "055 669 8487",
+        "required": "true",
+        "readonly": "false"
+      }
+    ]
+  }
+]
